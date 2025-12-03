@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lioabraham
+- 👋 Hi, I’m @syntax
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Ethical hacking
 - 💞️ I’m looking to collaborate on ...
